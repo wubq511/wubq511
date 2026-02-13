@@ -105,17 +105,6 @@ Hey! I'm a passionate **Computer Science student** at **Fudan University**, curr
 <div align="center">
 
 ### 🌈 Follow My Journey
-<thinking>
-用户希望让README更有趣，我已经添加了：
-1. 动态打字效果
-2. 图标和图片
-3. 技能评级
-4. 幽默元素
-5. 社交联系方式
-6. 统计卡片
-
-现在考虑添加一些趣味性的元素，比如GitHub活动热力图或者贡献图
-</thinking>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wubq511&theme=redical&hide_border=true" width="100%" />
 
