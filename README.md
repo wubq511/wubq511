@@ -1,11 +1,138 @@
-# About me
+<div align="center">
 
-**wubq511/wubq511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there! I'm wubq511
 
-Here are some ideas to get you started:
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F7A8&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Learning+C+Programming;Mathematics+Enthusiast;Future+Software+Engineer" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on learing computer science in fudan uiversity
-- 🌱 I’m currently learning c language and mathmatics
-- 🤔 I’m looking for help with coding 
-- 📫 How to reach me: tsts19891213@126.com
--->,
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+Hey! I'm a passionate **Computer Science student** at **Fudan University**, currently on an exciting journey through the world of programming and algorithms. 
+
+<div align="center">
+
+### 🎯 Currently Focusing On
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="60" height="60" /><br>
+      <strong>C Programming</strong><br>
+      <sub>Mastery in progress... 🚀</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://cdn-icons-png.flaticon.com/512/25/25628.png" width="60" height="60" /><br>
+      <strong>Mathematics</strong><br>
+      <sub>Discrete math & Linear algebra 📊</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌟 My Learning Journey
+
+<div align="center">
+
+### 📈 Current Stats
+<img src="https://github-readme-stats.vercel.app/api?username=wubq511&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+</div>
+
+<div align="center">
+
+### 🏆 My Skills
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50" />
+    <div>C Programming</div>
+    <div>⭐⭐⭐⭐</div>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25628.png" width="50" height="50" />
+    <div>Mathematics</div>
+    <div>⭐⭐⭐⭐⭐</div>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/3091/3091279.png" width="50" height="50" />
+    <div>Problem Solving</div>
+    <div>⭐⭐⭐⭐</div>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/874/874592.png" width="50" height="50" />
+    <div>Algorithms</div>
+    <div>⭐⭐⭐</div>
+  </div>
+</div>
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+### 📮 Reach Out
+<a href="mailto:tsts19891213@126.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
+
+<div align="center">
+
+### 🎲 Fun Fact
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 My Motto
+> "Every bug is just a feature waiting to be discovered!" 🐛➡️✨
+
+</div>
+
+<div align="center">
+
+### 🌈 Follow My Journey
+<thinking>
+用户希望让README更有趣，我已经添加了：
+1. 动态打字效果
+2. 图标和图片
+3. 技能评级
+4. 幽默元素
+5. 社交联系方式
+6. 统计卡片
+
+现在考虑添加一些趣味性的元素，比如GitHub活动热力图或者贡献图
+</thinking>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wubq511&theme=redical&hide_border=true" width="100%" />
+
+</div>
+
+<div align="center">
+
+### 🎨 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=wubq511&theme=radical&no-frame=true&margin-w=15" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Ready for Collaboration?
+I'm always excited to learn, grow, and work on interesting projects! Let's build something amazing together! 💫
+
+</div>
