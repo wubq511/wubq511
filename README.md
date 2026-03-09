@@ -16,22 +16,6 @@ Hey! I'm a passionate **Computer Science student** at **Fudan University**, curr
 
 <div align="center">
 
-### 🎯 Currently Focusing On
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="60" height="60" /><br>
-      <strong>C Programming</strong><br>
-      <sub>Mastery in progress... 🚀</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://cdn-icons-png.flaticon.com/512/25/25628.png" width="60" height="60" /><br>
-      <strong>Mathematics</strong><br>
-      <sub>Discrete math & Linear algebra 📊</sub>
-    </td>
-  </tr>
-</table>
-
 </div>
 
 ---
