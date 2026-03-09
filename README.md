@@ -20,12 +20,6 @@ Hey! I'm a passionate **Computer Science student** at **Fudan University**, curr
 
 ---
 
-## 🌟 My Learning Journey
-
-<div align="center">
-
-### 📈 Current Stats
-<img src="https://github-readme-stats.vercel.app/api?username=wubq511&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 </div>
 
@@ -45,13 +39,6 @@ Hey! I'm a passionate **Computer Science student** at **Fudan University**, curr
 </a>
 
 </div>
-
-<div align="center">
-
-
-</div>
-
-<div align="center">
 
 ### 🌈 Follow My Journey
 
