@@ -27,8 +27,6 @@ Hey! I'm a passionate **Computer Science student** at **Fudan University**, curr
 
 </div>
 
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
