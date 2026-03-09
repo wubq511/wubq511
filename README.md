@@ -3,7 +3,7 @@
 # 👋 Hi there! I'm wubq511
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F7A8&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Learning+C+Programming;Mathematics+Enthusiast;Future+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F7A8&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Learning+C+Programming;Future+Software+Engineer" alt="Typing SVG" />
 </div>
 
 </div>
@@ -47,30 +47,6 @@ Hey! I'm a passionate **Computer Science student** at **Fudan University**, curr
 
 <div align="center">
 
-### 🏆 My Skills
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50" />
-    <div>C Programming</div>
-    <div>⭐⭐⭐⭐</div>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25628.png" width="50" height="50" />
-    <div>Mathematics</div>
-    <div>⭐⭐⭐⭐⭐</div>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/3091/3091279.png" width="50" height="50" />
-    <div>Problem Solving</div>
-    <div>⭐⭐⭐⭐</div>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/874/874592.png" width="50" height="50" />
-    <div>Algorithms</div>
-    <div>⭐⭐⭐</div>
-  </div>
-</div>
-
 </div>
 
 ---
@@ -88,17 +64,6 @@ Hey! I'm a passionate **Computer Science student** at **Fudan University**, curr
 
 <div align="center">
 
-### 🎲 Fun Fact
-<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 My Motto
-> "Every bug is just a feature waiting to be discovered!" 🐛➡️✨
 
 </div>
 
@@ -112,8 +77,6 @@ Hey! I'm a passionate **Computer Science student** at **Fudan University**, curr
 
 <div align="center">
 
-### 🎨 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=wubq511&theme=radical&no-frame=true&margin-w=15" />
 
 </div>
 
