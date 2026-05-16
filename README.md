@@ -3,7 +3,7 @@
 # 👋 Hi there! I'm wubq511
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F7A8&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Learning+C+Programming;Future+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F7A8&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Coding;Future+Software+Engineer" alt="Typing SVG" />
 </div>
 
 </div>
