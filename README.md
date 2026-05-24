@@ -12,48 +12,16 @@
 
 ## 🧑‍💻 About Me
 
-Hey! I'm a passionate **Computer Science student** at **Fudan University**, currently on an exciting journey through the world of programming and algorithms. 
+Hey! I'm a passionate **Computer Science student** at **Fudan University**, currently on an exciting journey through the world of programming. 
 
 <div align="center">
 
 </div>
 
 ---
-
-
-</div>
-
-<div align="center">
-
-</div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-### 📮 Reach Out
-<a href="mailto:tsts19891213@126.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-</div>
 
 ### 🌈 Follow My Journey
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wubq511&theme=redical&hide_border=true" width="100%" />
-
-</div>
-
-<div align="center">
-
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Ready for Collaboration?
-I'm always excited to learn, grow, and work on interesting projects! Let's build something amazing together! 💫
 
 </div>
